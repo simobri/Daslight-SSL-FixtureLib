@@ -1,8 +1,9 @@
 # **Daslight SSL Fixture Library**
 ---
 
-This repository contains a set of SSL and SSL2 files for Fixture (Light, Smoke Machines, Movin Heads) created with ScanLib for Daslight
-Software official webpage: https://www.daslight.com/
+This repository contains a set of SSL and SSL2 files for Fixture (Light, Smoke Machines, Moving heads, etc...) created with ScanLib software for Daslight Virtual Controller.
+
+Daslight and ScanLib software official Webpage: https://www.daslight.com/
 
 ## **Disclaimer**
 
